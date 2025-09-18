@@ -69,3 +69,10 @@ layout: default
 
 　　最后说一句，搞定网络就像是给旅行上了第一道保险，心里不慌。希望这份指南能让你在玻利维亚的探索更加顺畅自在。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Bolivia SIM 卡购买与激活指南](https://faciylike.github.io/bolivia-sim-guides)
